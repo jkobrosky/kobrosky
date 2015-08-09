@@ -1,0 +1,17 @@
+.skills-icon {
+	font-size: 10em;
+}
+
+.img-responsive {
+	height: 10em;
+}
+
+.center-img {
+	display: flex;
+	justify-content: center;
+}
+
+.container {
+	margin: auto;
+	padding: 0 20px;
+}
