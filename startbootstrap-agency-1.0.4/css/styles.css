@@ -2,7 +2,7 @@
 	font-size: 10em;
 }
 
-.img-responsive {
+.img-skills {
 	height: 10em;
 }
 
@@ -11,7 +11,11 @@
 	justify-content: center;
 }
 
-.container {
-	margin: auto;
-	padding: 0 20px;
+.node-icon {
+	color: #80bd01;
+	font-size: 10em;
+}
+
+.force-contain {
+	height: 214px
 }
