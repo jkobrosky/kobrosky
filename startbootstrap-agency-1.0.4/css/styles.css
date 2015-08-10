@@ -11,11 +11,26 @@
 	justify-content: center;
 }
 
-.node-icon {
-	color: #80bd01;
+.force-contain {
+	height: 214px
+}
+
+.devicons {
 	font-size: 10em;
 }
 
-.force-contain {
-	height: 214px
+.devicons-nodejs_small {
+	color: #80bd01;
+}
+
+.devicons-mongodb {
+	color: #6ba442;
+}
+
+.devicons-aws {
+	color: #eeba37;
+}
+
+.fa-google {
+	color: #dd4b39;
 }
